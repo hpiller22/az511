@@ -7,3 +7,8 @@ I used the Microsoft Fabric software to complete an end-to-end analytics process
 - Extract: Python Notebook 
 - Transform: Python Notebook
 - Load: Data Connection via PowerBI
+
+# Process 
+1) Create an account to request API credentials.
+2) After receiving credentials, create a Python notebook to perform ETL on the data.
+3) Create a data connection between Fabric and PowerBI.
